@@ -23,3 +23,16 @@ python3 jogo_senha.py
 Tentativa 1/6 - digite a senha de 4 digitos: 1234
 Resultado: lugar certo / digito certo lugar errado / errado / errado
 Dica: Um antigo relogio marca somente horas pares e todos os digitos seguem essa tradicao.
+Tentativa 2/6 - digite a senha de 4 digitos: xxxx
+VOCE ESCAPOU! Senha correta: xxxx
+Conseguiu em 2 tentativas. Parabens!
+```
+
+## Conceitos Utilizados
+
+- Variaveis
+- Listas
+- Entrada de dados com input()
+- Condicionais if, elif, else
+- Laco de repeticao while e for
+
