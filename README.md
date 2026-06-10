@@ -17,3 +17,9 @@ Voce acorda numa sala escura. Na parede tem um painel numerico com quatro espaco
 python3 jogo_senha.py
 ```
 
+## Exemplo de Interacao no jogo
+
+```
+Tentativa 1/6 - digite a senha de 4 digitos: 1234
+Resultado: lugar certo / digito certo lugar errado / errado / errado
+Dica: Um antigo relogio marca somente horas pares e todos os digitos seguem essa tradicao.
